@@ -1,0 +1,20 @@
+{
+    "name": "react-native-telegram-tdlib-auth",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "react-native": ">=0.60.0"
+    },
+    "peerDependencies": {
+      "react-native": ">=0.60.0"
+    },
+    "devDependencies": {
+      "react-native-cli": "^2.0.1"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
